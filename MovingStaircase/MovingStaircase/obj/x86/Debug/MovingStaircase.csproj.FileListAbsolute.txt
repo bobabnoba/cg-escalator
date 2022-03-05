@@ -1,0 +1,24 @@
+C:\Users\hp\Desktop\renamed\MovingStaircase\MovingStaircase\bin\Debug\AssimpLib\Assimp32.dll
+C:\Users\hp\Desktop\renamed\MovingStaircase\MovingStaircase\bin\Debug\AssimpLib\Assimp64.dll
+C:\Users\hp\Desktop\renamed\MovingStaircase\MovingStaircase\bin\Debug\AssimpLib\AssimpNet.dll
+C:\Users\hp\Desktop\renamed\MovingStaircase\MovingStaircase\bin\Debug\3D Models\Body\Bodymesh.3ds
+C:\Users\hp\Desktop\renamed\MovingStaircase\MovingStaircase\bin\Debug\3D Models\Body\Realistic_White_Male_Low_Poly.obj
+C:\Users\hp\Desktop\renamed\MovingStaircase\MovingStaircase\bin\Debug\MovingStaircase.exe.config
+C:\Users\hp\Desktop\renamed\MovingStaircase\MovingStaircase\bin\Debug\MovingStaircase.exe
+C:\Users\hp\Desktop\renamed\MovingStaircase\MovingStaircase\bin\Debug\MovingStaircase.pdb
+C:\Users\hp\Desktop\renamed\MovingStaircase\MovingStaircase\bin\Debug\AssimpNet.dll
+C:\Users\hp\Desktop\renamed\MovingStaircase\MovingStaircase\bin\Debug\SharpGL.dll
+C:\Users\hp\Desktop\renamed\MovingStaircase\MovingStaircase\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\hp\Desktop\renamed\MovingStaircase\MovingStaircase\bin\Debug\SharpGL.WPF.dll
+C:\Users\hp\Desktop\renamed\MovingStaircase\MovingStaircase\obj\x86\Debug\MovingStaircase.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\renamed\MovingStaircase\MovingStaircase\obj\x86\Debug\MainWindow.baml
+C:\Users\hp\Desktop\renamed\MovingStaircase\MovingStaircase\obj\x86\Debug\MainWindow.g.cs
+C:\Users\hp\Desktop\renamed\MovingStaircase\MovingStaircase\obj\x86\Debug\App.g.cs
+C:\Users\hp\Desktop\renamed\MovingStaircase\MovingStaircase\obj\x86\Debug\MovingStaircase_Content.g.cs
+C:\Users\hp\Desktop\renamed\MovingStaircase\MovingStaircase\obj\x86\Debug\MovingStaircase_MarkupCompile.cache
+C:\Users\hp\Desktop\renamed\MovingStaircase\MovingStaircase\obj\x86\Debug\MovingStaircase.g.resources
+C:\Users\hp\Desktop\renamed\MovingStaircase\MovingStaircase\obj\x86\Debug\MovingStaircase.Properties.Resources.resources
+C:\Users\hp\Desktop\renamed\MovingStaircase\MovingStaircase\obj\x86\Debug\MovingStaircase.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\renamed\MovingStaircase\MovingStaircase\obj\x86\Debug\MovingStaircase.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\renamed\MovingStaircase\MovingStaircase\obj\x86\Debug\MovingStaircase.exe
+C:\Users\hp\Desktop\renamed\MovingStaircase\MovingStaircase\obj\x86\Debug\MovingStaircase.pdb
